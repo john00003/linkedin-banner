@@ -1,0 +1,11 @@
+This banner is a derivative work ("adaptation") of:
+
+  "Anomaly" by Ian Ryge (iryge)
+  from ubuntu-wallpapers-resolute (Ubuntu 26.04 "Resolute Raccoon")
+  Source: https://launchpad.net/ubuntu-wallpapers
+  Licensed CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+
+Changes: cropped, mirrored horizontally, recoloured via a luminance gradient map;
+text overlay added.
+
+This adaptation is likewise licensed CC BY-SA 4.0.
